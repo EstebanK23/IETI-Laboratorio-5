@@ -9,7 +9,7 @@ import LockIcon from '@material-ui/icons/LockOutlined';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import './Login.css'
-import { BrowserRouter as Router, Switch, Route,Link } from 'react-router-dom';
+import { BrowserRouter as Link } from 'react-router-dom';
 
 
 export class Login extends React.Component{
